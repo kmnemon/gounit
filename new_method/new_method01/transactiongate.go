@@ -8,6 +8,6 @@ func (t *TransactionGate) postEntries(entries []Entry) {
 	for _, entry := range entries {
 		entry.postDate()
 	}
-	
+
 	t.transactionBundle.add(entries)
 }
