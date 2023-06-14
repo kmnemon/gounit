@@ -1,4 +1,4 @@
-package wrap_method02_wrapmethod
+package wrapmethod01_wrapmethod
 
 type Timecard struct {
 }

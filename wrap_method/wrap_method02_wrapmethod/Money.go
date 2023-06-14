@@ -1,4 +1,4 @@
-package wrapmethod01
+package wrapmethod01_wrapmethod
 
 type Money struct {
 }

@@ -1,4 +1,4 @@
-package new_method01_oldway
+package new_method02_oneway
 
 type TransactionBundle struct {
 }

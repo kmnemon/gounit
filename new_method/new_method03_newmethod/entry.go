@@ -1,4 +1,4 @@
-package new_method01_oneway
+package new_method01_newmethod
 
 type Entry struct {
 }

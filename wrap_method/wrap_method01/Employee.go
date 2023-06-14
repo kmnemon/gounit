@@ -14,6 +14,8 @@ func (e *Employee) pay() {
 	dispatcherPay(e, amount)
 }
 
+//新增需求：每次我们给一个雇员支付薪水时都做一下日志记录
+
 func dispatcherPay(e *Employee, amount Money) {
 
 }

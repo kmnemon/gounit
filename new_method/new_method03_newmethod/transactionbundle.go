@@ -1,4 +1,4 @@
-package new_method03_newmethod
+package new_method01_newmethod
 
 type TransactionBundle struct {
 }

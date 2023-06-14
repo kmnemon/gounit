@@ -1,4 +1,4 @@
-package wrapmethod01
+package wrap_method03_exposewrap
 
 type Money struct {
 }

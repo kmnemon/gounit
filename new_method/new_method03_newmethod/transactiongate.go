@@ -1,4 +1,4 @@
-package new_method03_newmethod
+package new_method01_newmethod
 
 type TransactionGate struct {
 	transactionBundle TransactionBundle
@@ -14,5 +14,6 @@ func (t *TransactionGate) postEntries(entries []Entry) {
 }
 
 func (t *TransactionGate) uniqueEntries(entries []Entry) []Entry {
+	//filter entries
 	return entries
 }

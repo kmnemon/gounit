@@ -26,3 +26,5 @@ func (e *Employee) logPayment() {
 func dispatcherPay(e *Employee, amount Money) {
 	//...
 }
+
+//原pay方法未被客户端调用
